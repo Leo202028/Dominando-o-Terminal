@@ -10,4 +10,4 @@ Outro ponto relevante é que a CLI permite um nível mais profundo de acesso ao 
 
 
 
-![sla](<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/ca788c39-43b6-4620-8493-1a69487387b5" />)
+![sla](https://upload.wikimedia.org/wikipedia/commons/2/29/Linux_command-line._Bash._GNOME_Terminal._screenshot.png)
