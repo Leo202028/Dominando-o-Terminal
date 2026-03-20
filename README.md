@@ -8,3 +8,6 @@ Sua principal vantagem está na eficiência e no controle. Com poucos comandos, 
 
 Outro ponto relevante é que a CLI permite um nível mais profundo de acesso ao sistema operacional, possibilitando configurações avançadas e maior flexibilidade. Por isso, ela é amplamente utilizada por profissionais de tecnologia, tornando-se uma habilidade essencial para quem deseja atuar na área de TI.
 
+
+
+![sla](<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/ca788c39-43b6-4620-8493-1a69487387b5" />)
