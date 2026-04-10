@@ -41,3 +41,8 @@ Por exemplo:
 cd /home/usuario/documentos
 
 Dominar esse comando facilita muito o uso da CLI e torna o trabalho mais rápido e organizado.
+
+
+
+![sla](https://revistaoeste.com/politica/agu-quer-saber-quem-financia-os-memes-sobre-taxadd/)
+
