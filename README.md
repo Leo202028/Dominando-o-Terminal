@@ -46,3 +46,5 @@ Dominar esse comando facilita muito o uso da CLI e torna o trabalho mais rápido
 
 ![sla](https://revistaoeste.com/politica/agu-quer-saber-quem-financia-os-memes-sobre-taxadd/)
 
+![sla](https://poki.com/br/g/meme-madness)
+![sla](https://www.google.com/imgres?q=imagem%20meme&imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Fimages%2Fic%2F512xn%2Fp09j7x4c.jpg.webp&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fsalasocial-56965395&docid=whXN63D_HmdgZM&tbnid=Bijikp4aSGIzwM&vet=12ahUKEwiJu4Ou4eOTAxUfIbkGHX8aEjIQnPAOegQIGRAB..i&w=512&h=288&hcb=2&ved=2ahUKEwiJu4Ou4eOTAxUfIbkGHX8aEjIQnPAOegQIGRAB)
